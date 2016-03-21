@@ -1,5 +1,9 @@
 # penguin-laptop (Debian Jessie)
 
+## Hardware
+
+Apple Macbook Air 11, 2013, 8GB RAM
+
 ## Kernel
 
 4.3 from backports with laptop-mode-tools installed.
